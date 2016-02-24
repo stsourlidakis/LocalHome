@@ -1,0 +1,18 @@
+body{
+	background: #222;
+	color: #eee;
+}
+img{
+	background-color: #eee;
+	opacity: 0.9;
+}
+.img-responsive:hover{
+	max-width: 120%;
+	transform: rotate(7deg);
+}
+.container{
+	margin-bottom: 600px;
+}
+.row{
+	min-height:  155px;
+}
